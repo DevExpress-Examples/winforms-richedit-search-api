@@ -19,7 +19,7 @@ Namespace RichUsingSearchAPI
             MyBase.Dispose(disposing)
         End Sub
 
-'#Region "Windows Form Designer generated code"
+#Region "Windows Form Designer generated code"
         ''' <summary>
         ''' Required method for Designer support - do not modify
         ''' the contents of this method with the code editor.
@@ -60,7 +60,7 @@ Namespace RichUsingSearchAPI
             Me.ResumeLayout(False)
         End Sub
 
-'#End Region
+#End Region
         Private richEditControl1 As DevExpress.XtraRichEdit.RichEditControl
 
         Private button1 As System.Windows.Forms.Button
